@@ -1,2 +1,0 @@
-# ElJoker-Gym
-ElJoker Gym
